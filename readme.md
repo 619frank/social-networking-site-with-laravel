@@ -1,1 +1,1 @@
-This project was created with laravel framework
+This project was created with laravel framework.
