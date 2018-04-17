@@ -1,5 +1,10 @@
 @extends('layouts.main')
 
 @section('content')
-Hello
+    Hello
+   
 @endsection
+
+
+
+
