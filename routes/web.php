@@ -11,5 +11,7 @@
 |
 */
 
-Route::get('/' 
+Route::get('/', function(){
+    return 'hello';
+}
 );
