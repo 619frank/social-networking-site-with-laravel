@@ -1,5 +1,6 @@
 @extends('layouts.main')
 @section('content')
+    <h3>Signup</h3>
     <div class="row">
             <div class="col-lg-6">
                 <form action="{{route('auth.signup')}}" class="form-vertical" method="post" role="form">
