@@ -1,8 +1,8 @@
 @extends('layouts.main')
 
 @section('content')
-    Hello
-   
+    <h3>Welcome to the new Social Media Application</h3>
+    <p>The best App Ever .....     </p>
 @endsection
 
 
